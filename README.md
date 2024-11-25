@@ -1,1 +1,2 @@
 # Hotel_Booking_Report
+Dashboard link : https://app.powerbi.com/view?r=eyJrIjoiZDdkMTM3ZTMtMDJlMi00N2U1LWEwOTgtMDAyOTBkN2Y0MzdmIiwidCI6IjY0ZGU2ZGRmLTA4ZTAtNGJjNy1iYTdkLWZmNTM1MmU1MGFjYyJ9
